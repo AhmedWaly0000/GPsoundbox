@@ -1,3 +1,29 @@
+Tasks:
+Links:
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+https://mongodb.github.io/node-mongodb-native/api-generated/mongoclient.html
+https://www.mongodb.com/docs/drivers/node/current/fundamentals/connection/connect/#std-label-node-connect-to-mongodb
+https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/write-operations/change-a-document/
+
+
+1. set up mongodb module
+    1. Implement read ,update, create, delete
+2. set up database mongoDB
+    1. create recording class
+        name, sound file, image
+    2. Give the database sample data to test
+4. react ui
+
+
+
+    
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
